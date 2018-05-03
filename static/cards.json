@@ -1,0 +1,30 @@
+[
+  {
+    "mean": "train 78A",
+    "start": "Madrid",
+    "end": "Barcelona",
+    "seat": "45B",
+    "details": ""
+  },
+  {
+    "mean": "airport bus",
+    "start": "Barcelona",
+    "end": "Gerona Airport",
+    "seat": "45B",
+    "details": ""
+  },
+  {
+    "mean": "flight SK455",
+    "start": "Gerona Airport",
+    "end": "Stockholm",
+    "seat": "Gate 45B, seat 3A",
+    "details": "Baggage drop at ticket counter 344"
+  },
+  {
+    "mean": "flight SK22",
+    "start": "Stockholm",
+    "end": "New York JFK",
+    "seat": "Gate 22, seat 7B",
+    "details": "Baggage will we automatically transferred from your last leg"
+  }
+]
